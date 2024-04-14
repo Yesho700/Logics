@@ -3,3 +3,16 @@
 1 : If We ar Sorting, or Finding Max or Min again n again 
     to optimised This Situation Use : PriorityQueue/Heap
   
+2 : If We are working with Subarrays
+    we shall prefer : Sliding Window  or Prefix Sum
+
+3 : If we are dealing with Subsequence
+    we shall prefer : Backtraking solution then try to convert it into Head Recursion solution
+    than try to Optimised it by Using Dynamic Programming
+
+4 : In most of the String Problems we would prefer Stack Solution
+
+5 : Always try to write a BruteForce solution than try to focus the Inner Loops
+    and Brainstorm how this inner loop can be replaced with optimised code
+    Example : If we add a Inner loop to Search than replace that with HashMap
+              as it Reduces time complexity From O(n) -> O(1)
