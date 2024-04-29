@@ -16,3 +16,10 @@
     and Brainstorm how this inner loop can be replaced with optimised code
     Example : If we add a Inner loop to Search than replace that with HashMap
               as it Reduces time complexity From O(n) -> O(1)
+
+6 : If N is the size of an Array
+    If we generate all the subarrays of an Array
+    and count the frequency of each number of Array in all the Subarrays
+    then,
+            if N == EVEN : All the numbers of an Array have frequency EVEN
+            if N == ODD : EVEN index elements have ODD Frequency and ODD index elements have EVEN Frequency
