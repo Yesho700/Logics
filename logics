@@ -27,3 +27,16 @@
 7 : If we have an array containing pair of Integers at each Index 
     or provide the range as starting and ending point 
     to deal with that type of question focus on the impacting point of that range that change the previous scenerio
+
+
+
+8 : If we do Simulation of a Recurrsion using stack:
+    Then, Recursive Call or Function call ===> PUSH Operation
+          Return ===> POP Operation
+          Return X ===> First POP then pass X to the new TOP Element
+          Top Element ===> Head in LinkedList Program
+                           Root in Tree Program
+
+
+
+
