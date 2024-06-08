@@ -1,0 +1,6 @@
+Session is used to save data on Server
+ans BANNED User Data : Weather User is Banned or not Store in Session 
+
+If any how we shall Crash the server all the session will be deleted therefore user will be UNBANNED again 
+
+to crash the server there is one option that we shall do multiple request over the server due  to which server get crashed and BOOM
