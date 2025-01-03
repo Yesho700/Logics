@@ -37,6 +37,8 @@
           Top Element ===> Head in LinkedList Program
                            Root in Tree Program
 
-
+9 : During Optimization If we have encounter a scenrio in such a way we have to compare each and every element to another 
+            Then we need to check is it necessasary to do with all elements or we can do a check with Smallest element or Largest element 
+            using TreeSet, TreeMap, Deque
 
 
